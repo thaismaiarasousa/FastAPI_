@@ -1,0 +1,1 @@
+# Este arquivo permite que o diretório rotas dentro de app seja tratado como um pacote Python.
